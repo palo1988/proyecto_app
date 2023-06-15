@@ -21,7 +21,7 @@ const UserGuestScreen = () => {
       <ImageBackground source={image} resizeMode="cover" style={styles.imagebg}>
         <Text style={styles.title}>Consultar tu perfil de MuSiCarDE </Text>
         <Text style={styles.description}>
-          Servicio de música, pódcasts y vídeos digitales que te da acceso a
+          Servicio de músicaAA, pódcasts y vídeos digitales que te da acceso a
           millones de canciones y a otro contenido de creadores de todo el
           mundo. Las funciones básicas, como escuchar música, son totalmente
           gratis.
